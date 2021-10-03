@@ -1,0 +1,23 @@
+{
+  "name": "heart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizulislamfair/heart_in_a_jar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizulislamfair/heart_in_a_jar/issues"
+  },
+  "homepage": "https://github.com/faizulislamfair/heart_in_a_jar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
